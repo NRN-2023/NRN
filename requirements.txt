@@ -1,0 +1,6 @@
+einops==0.4.1
+numpy==1.13.3
+pandas==0.22.0
+py==1.11.0
+scikit_learn==1.2.2
+torch==1.11.0.dev20211104+cu111
